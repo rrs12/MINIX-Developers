@@ -13,7 +13,7 @@
          .slider .buttons {
 	 z-index: 1;
 	 right: 50%;
-	 top: 361px;
+	 top: 471px;
 	 width: 80px;
 	 height: 40px;
 	 position: absolute;
@@ -102,7 +102,7 @@
 }
  @media screen and (min-width: 600px) {
 	          .slider .buttons {
-		 top: 380px;
+		 top: 470px;
 	}
 }
  @media screen and (min-width: 900px) {	
@@ -123,8 +123,8 @@
 		 transform: translateX(100px);
 	}
 	          .slider .slide .testimonial blockquote {
-		 font-size: 20px;
-		 line-height: 26px;
+		 font-size: 18px;
+		 line-height: 22px;
 	}
 	          .slider .slide .testimonial .author span {
 		 display: contents;
